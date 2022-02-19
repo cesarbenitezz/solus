@@ -1,10 +1,5 @@
 # Hi there, I'm Solus - aka [Sam][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=https://nostalgic-liskov-86509c.netlify.app/&style=for-the-badge&url=https%3A%2F%2Fhttps://nostalgic-liskov-86509c.netlify.app/)](https://nostalgic-liskov-86509c.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SamSolus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SamSolus)
-
-
 
 ## I'm a Student, Developer, and a dude who is working hard!!
 
